@@ -1,0 +1,1 @@
+Salt refers to a random value added to a password before hashing it. This process helps in protecting against dictionary attacks and rainbow table attacks. By using a unique salt for each password, even if two users have the same password, their hashed passwords will be different.
